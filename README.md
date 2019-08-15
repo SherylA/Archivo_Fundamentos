@@ -21,6 +21,18 @@ Conjunto de evaluaciones con solución de uno de los cursos dictados por la prof
 * Uso básico de python en problemas básicos en ciencia
 * Uso de básico de numpy, matplotlib y pandas
 
+## Contenido
+
+* Archivo [Semestre 2016-1](/Semestre_2016_1)
+* Archivo [Semestre 2016-2](/Semestre_2016_2)
+* Archivo [Semestre 2017-1](/Semestre_2017_1)
+* Archivo [Semestre 2017-2 Grupo 5](/Semestre_2017_2/Grupo5)
+* Archivo [Semestre 2017-2 Grupo 4](/Semestre_2017_2/Grupo4)
+* Archivo [Semestre 2018-1 Grupo 5](/Semestre_2018_1/Grupo5)
+* Archivo [Semestre 2018-1 Grupo 4](/Semestre_2018_1/Grupo4)
+* Archivo [Semestre 2018-2](/Semestre_2018_2)
+
+
 ## Autor
 
 Profesora Sheryl Avendaño 
