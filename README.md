@@ -13,7 +13,7 @@ Conjunto de evaluaciones con solución de uno de los cursos dictados por la prof
 
 ## Temario
 
-* Introdución a GNU/Linux
+* Introducción a GNU/Linux
 * Uso de algunos comandos de BASH
 * Introducción a la Algoritmia
 * Resolución de problemas básicos en ciencia usando algoritmia
